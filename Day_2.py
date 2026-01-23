@@ -1,5 +1,5 @@
 
-#Varible Declare & Type
+# Varible Declare & Type
 
 first_name='Tuhin'
 last_name='Hoque'
