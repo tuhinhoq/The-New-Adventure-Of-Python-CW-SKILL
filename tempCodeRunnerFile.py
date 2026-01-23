@@ -55,14 +55,5 @@ f_3=language[1:3]
 
 print(f_3)
 
-msg="Hi I'm Tuhin"
 print(greetings.count('T'))
-print(greetings.endswith('a' or 'b'))
-print(msg.find('i'))
-print(greeting.split())
-print(msg.swapcase())
-print(msg.replace("Tuhin","Python"))
-print(msg.upper())
-print(msg.lower())
-
-print('------------------------------------------')
+print(greetings.endswith('a-b'))
