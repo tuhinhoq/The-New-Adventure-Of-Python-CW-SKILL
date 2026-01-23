@@ -16,6 +16,8 @@ print(mix_data.pop(0))
 print(mix_data)
 
 num_r=[1,2,3,7,5,6,4]
+ser= 2 in num_r
+print(ser)
 pr=sorted(num_r)
 print(pr)
 
